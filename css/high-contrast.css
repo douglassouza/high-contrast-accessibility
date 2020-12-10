@@ -2,15 +2,15 @@
   Styles Contrast
   ========================================================================== */
 
+.font-size {
+    font-size: 18px !important;
+}
+
 .contrast *:focus {
     outline: 5px solid red !important;
 }
 
-.contrast {
-    font-size: 18px !important;
-}
-
-.contrast body,
+.contrast,
 .contrast nav,
 .contrast div,
 .contrast li,
